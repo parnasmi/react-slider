@@ -1,0 +1,1200 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"fade",
+				"fadeout"
+			],
+			[
+				"top",
+				"topOffset"
+			],
+			[
+				"header",
+				"header-nlp.pug"
+			],
+			[
+				"la",
+				"lastScrollPosition"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"remo",
+				"removeAttr"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"vari",
+				"variableWidth"
+			],
+			[
+				"si",
+				"siblItems"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"equi",
+				"equalHeights"
+			],
+			[
+				"auto",
+				"autoWidth"
+			],
+			[
+				"owl",
+				"owlCarousel"
+			],
+			[
+				"br",
+				"bxsh-r\tbox-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:spread }rgb(${6:0}, ${7:0}, ${8:0});"
+			],
+			[
+				"foot",
+				"footnoteData"
+			],
+			[
+				"span",
+				"spans"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"cat",
+				"catMenu"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"parent",
+				"parentSiblings"
+			],
+			[
+				"img",
+				"img-author-1.jpg\tw:77 h:77"
+			],
+			[
+				"n",
+				"fl-n\tfloat: none;"
+			],
+			[
+				"img-logo",
+				"img-logo-giant.jpg\tw:318 h:54"
+			],
+			[
+				"l",
+				"img-logo-merida.jpg\tw:318 h:136"
+			],
+			[
+				"logo",
+				"logo-scot.jpg\tw:298 h:189"
+			],
+			[
+				"cu",
+				"img-logo-cube.jpg\tw:315 h:78"
+			],
+			[
+				"di",
+				"d-i\tdisplay: inline;"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"bgpo",
+				"background-position"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"so",
+				"sortList"
+			],
+			[
+				"mouse",
+				"mouseleave"
+			],
+			[
+				"checkout",
+				"checkout-step-4.pug"
+			],
+			[
+				"bgps",
+				"background-position"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"mouseo",
+				"mouseover"
+			],
+			[
+				"im",
+				"img-item-4.jpg\tw:430 h:255"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"menu",
+				"menuContent"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"j",
+				"jquery.hoverdelay.min.js"
+			],
+			[
+				"pe",
+				"preventDefault"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"na",
+				"navMain"
+			],
+			[
+				"nav",
+				"navToogle"
+			],
+			[
+				"mod",
+				"modalWidth"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"current",
+				"currentBlockOffset"
+			],
+			[
+				"doc",
+				"documentScroll"
+			],
+			[
+				"heda",
+				"headerH"
+			],
+			[
+				"jquery",
+				"jquery.sidr.dark.min.css"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"img-",
+				"src/img/img-why-right.png"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"_jade",
+				"_jade_inc"
+			],
+			[
+				"a",
+				"argName"
+			],
+			[
+				"in",
+				"intervalHandler"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"ele",
+				"elemArray"
+			],
+			[
+				"get",
+				"getElems"
+			],
+			[
+				"s",
+				"sortByAge"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"prop",
+				"propsInB"
+			],
+			[
+				"props",
+				"propsInA"
+			],
+			[
+				"p",
+				"prop"
+			],
+			[
+				"array",
+				"arrayToList"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"Class",
+				"className"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"filter",
+				"filterRange"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ilkhom/Documents/My stuffs/Dev/Training/JS/glo-react/slider"
+	],
+	"file_history":
+	[
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/gulpfile.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/source/template/scripts.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/node_modules/fsevents/node_modules/gauge/process.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/gulp/tasks/sass-shop.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/gulp/paths/js.libs.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/gulp/tasks/sass-site.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/Design/all old fixes/menu-items.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/main.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/FS/incart/source/js/vendor/jquery.ui.touch-punch.min.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach/gulpfile.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach/gulp/paths/app.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach/source/style/base/scaffolding-project.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach/build/assets/js/main.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/no-reason.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/catalog-i.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/feedbacks.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/footer.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/gulpfile.js",
+		"/Users/ilkhom/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/assets/temp/animation.css",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/assets/temp/backup-headr-before-float header.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/contacts.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/assets/temp/main-before changing breakpoints.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-main.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/assets/illustrations/drive-download-20170126T061129Z/Открытки/card_Skolkovo.tif",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/js/main.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/intro.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/contacts-top.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/feedback-block.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-intro.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/_vars-project.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/fancybox-css-from-rifmach.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/catalog.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/join-us.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/application-audioform.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/service-cat-item.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/magnific.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/author-popup.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/lightgallery.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/honor.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/feedbacks.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/rifmach-owl.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/author-portfolio.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/_fonts.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/web/client/UglifyJS/process.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/contacts-form.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/components/forms.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/join-form.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/author.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/author-feedback.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/author-feedback-file.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/media-rifmach-skin.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/sidebar-popup.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/featherlight.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/index-reviews.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/application.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/masterslider.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/app.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/jquery.fancybox.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/rating-stars.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/any-format.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/base/scaffolding-project.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/simplebar.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/catalog-i-backup.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-header.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/application-page.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/_slick-theme.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/_template--header-bordered-popup.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/gulp/tasks/js.libraries.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/_template-landing.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/payments--filterizr.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/master-style.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/_selectric.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/jquery.fancybox-2.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-tarif.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/components/icons.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/service-how.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/index.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/_template--nlp-appl.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/catalog-index-before-grouping.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/payments.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/checkout.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/contacts-map.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/author-feedback.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/authors-page.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/jquery.fancybox-buttons.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/jquery.fancybox-thumbs.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/vendor/animate-rifmach.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-thx.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/_mixins-project.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/blog.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/application-audio.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/join.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/intro-secondary.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/node_modules/gulp-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/offline-apps.json",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/bower_components/slick-carousel/slick/slick-theme.css",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/team.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/header.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/verstka-menu.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/news.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/honor-old-fancybox.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/gulp/tasks/sass.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/build/menu.html",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-audioappl.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/gift.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/footer.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/service-stats.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/components/buttons.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/application-audiopage.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/contacts-form.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/landing.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/advantages.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/service-how.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/service-corp.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/bower_components/slick-carousel/slick/slick-theme.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/requirements.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/decor-popup.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-why.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/gulp/tasks/pug.js",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/style/blocks/nlp-appl.scss",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/team-popup.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/service-corp.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/contacts.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/pages/catalog-i-backup-before-grouping.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/service-cat-item.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/honor.pug",
+		"/Users/ilkhom/Documents/My stuffs/Dev/FL/rifmach3/source/template/common/intro-appl-nlp.pug"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "React-Slider.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"gulpfile.js"
+			],
+			[
+				"itemside",
+				"source/style/blocks/item-sidebar.scss"
+			],
+			[
+				"jsfoun",
+				"gulp/paths/js.foundation.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"script",
+				"source/template/scripts_item-page.pug"
+			],
+			[
+				"gulpfil",
+				"gulpfile.js"
+			],
+			[
+				"js.pro",
+				"gulp/tasks/js.process.js"
+			],
+			[
+				"proce",
+				"node_modules/fsevents/node_modules/gauge/process.js"
+			],
+			[
+				"js",
+				"gulp/paths/js.foundation.js"
+			],
+			[
+				"jslib",
+				"gulp/paths/js.libs.js"
+			],
+			[
+				"mainjs",
+				"main.js"
+			],
+			[
+				"sasssi",
+				"gulp/tasks/sass-site.js"
+			],
+			[
+				"sasssho",
+				"gulp/tasks/sass-shop.js"
+			],
+			[
+				"jquery.ui.touch-punch.min.js",
+				"source/js/vendor/jquery.ui.touch-punch.min.js"
+			],
+			[
+				"jsfou",
+				"gulp/paths/js.foundation.js"
+			],
+			[
+				"menu",
+				"Design/all old fixes/menu-items.pug"
+			],
+			[
+				"main",
+				"build/assets/js/main.js"
+			],
+			[
+				"scaffolding-project",
+				"source/style/base/scaffolding-project.scss"
+			],
+			[
+				"style",
+				"source/style/style.scss"
+			],
+			[
+				"scaff",
+				"source/style/base/scaffolding-project.scss"
+			],
+			[
+				"sass",
+				"gulp/tasks/sass.js"
+			],
+			[
+				"jspro",
+				"gulp/tasks/js.process.js"
+			],
+			[
+				"watch",
+				"gulp/tasks/watch.js"
+			],
+			[
+				"menus",
+				"source/style/blocks/header/menu.scss"
+			],
+			[
+				"menu.js",
+				"source/js/blocks/menu.js"
+			],
+			[
+				"app",
+				"gulp/paths/app.js"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"footer",
+				"source/template/common/footer.pug"
+			],
+			[
+				"gulpfi",
+				"gulpfile.js"
+			],
+			[
+				"master",
+				"source/style/vendor/masterslider.scss"
+			],
+			[
+				"menupug",
+				"source/template/pages/menu.pug"
+			],
+			[
+				"rifma",
+				"source/template/common/rifmachs.pug"
+			],
+			[
+				"index",
+				"source/template/pages/index.pug"
+			],
+			[
+				"media",
+				"source/style/vendor/media-rifmach-skin.scss"
+			],
+			[
+				"catitm",
+				"source/style/blocks/service-cat-item.scss"
+			],
+			[
+				"catis",
+				"source/style/blocks/catalog-i.scss"
+			],
+			[
+				"serviccatite",
+				"source/style/blocks/service-cat-item.scss"
+			],
+			[
+				"servicecat",
+				"source/template/common/service-cat-item.pug"
+			],
+			[
+				"servi",
+				"source/template/pages/service.pug"
+			],
+			[
+				"news",
+				"source/template/pages/news.pug"
+			],
+			[
+				"landing",
+				"source/template/pages/landing.pug"
+			],
+			[
+				"komanda",
+				"source/template/pages/komanda.pug"
+			],
+			[
+				"joinus",
+				"source/template/pages/join-us.pug"
+			],
+			[
+				"feed",
+				"source/template/pages/feedbacks.pug"
+			],
+			[
+				"intro",
+				"source/style/blocks/intro.scss"
+			],
+			[
+				"catalogpug",
+				"source/template/pages/catalog.pug"
+			],
+			[
+				"nlpaudio",
+				"source/template/pages/nlp-audioappl.pug"
+			],
+			[
+				"nlp-app",
+				"source/template/pages/nlp-appl.pug"
+			],
+			[
+				"intronlp",
+				"source/template/common/intro-nlp.pug"
+			],
+			[
+				"nlp",
+				"source/template/pages/nlp.pug"
+			],
+			[
+				"nlpintro",
+				"source/style/blocks/nlp-intro.scss"
+			],
+			[
+				"_templnlpap",
+				"source/template/_template--nlp-appl.pug"
+			],
+			[
+				"nlpappl",
+				"source/template/pages/nlp-appl.pug"
+			],
+			[
+				"_temp",
+				"source/template/_template--nlp.pug"
+			],
+			[
+				"_temph",
+				"source/template/_template--header-bordered.pug"
+			],
+			[
+				"appli",
+				"source/template/pages/application-page.pug"
+			],
+			[
+				"fapopup",
+				"source/template/common/faq-popup-join-us.pug"
+			],
+			[
+				"faqpopu",
+				"source/template/common/faq-popup.pug"
+			],
+			[
+				"appliform",
+				"source/template/common/application-form.pug"
+			],
+			[
+				"applipagepug",
+				"source/template/pages/application-page.pug"
+			],
+			[
+				"side",
+				"source/style/blocks/sidebar-popup.scss"
+			],
+			[
+				"faq",
+				"source/template/common/faq-popup.pug"
+			],
+			[
+				"join-form",
+				"source/template/common/join-form.pug"
+			],
+			[
+				"forms",
+				"source/style/components/forms.scss"
+			],
+			[
+				"indexrew",
+				"source/style/blocks/index-reviews.scss"
+			],
+			[
+				"vars",
+				"source/style/_vars-project.scss"
+			],
+			[
+				"applaudioform",
+				"source/template/common/application-audioform.pug"
+			],
+			[
+				"sidebarpo",
+				"source/style/blocks/sidebar-popup.scss"
+			],
+			[
+				"authorpus",
+				"source/style/blocks/author-popup.scss"
+			],
+			[
+				"sidebar",
+				"source/style/blocks/sidebar-popup.scss"
+			],
+			[
+				"sidebarpopup",
+				"source/style/blocks/sidebar-popup.scss"
+			],
+			[
+				"mai",
+				"source/js/main.js"
+			],
+			[
+				"apps",
+				"source/style/app.scss"
+			],
+			[
+				"feathers",
+				"source/style/vendor/featherlight.scss"
+			],
+			[
+				"magni",
+				"source/style/vendor/magnific.scss"
+			],
+			[
+				"shab",
+				"source/style/blocks/shablon.scss"
+			],
+			[
+				"decor",
+				"source/template/common/decor-examples.pug"
+			],
+			[
+				"decorexpug",
+				"source/template/common/decor-examples.pug"
+			],
+			[
+				"applisc",
+				"source/style/blocks/application.scss"
+			],
+			[
+				"authorpoup",
+				"source/style/blocks/author-popup.scss"
+			],
+			[
+				"appliautdio",
+				"source/template/common/application-audioform.pug"
+			],
+			[
+				"authorfeedfile",
+				"source/template/common/author-feedback-file.pug"
+			],
+			[
+				"feedbackblo",
+				"source/template/common/feedback-block.pug"
+			],
+			[
+				"authorfeedbackfil",
+				"source/template/common/author-feedback-file.pug"
+			],
+			[
+				"authorfee",
+				"source/template/common/author-feedback.pug"
+			],
+			[
+				"mainj",
+				"source/js/main.js"
+			],
+			[
+				"author",
+				"source/template/pages/author.pug"
+			],
+			[
+				"feedback",
+				"source/template/common/feedback-block.pug"
+			],
+			[
+				"jsfo",
+				"gulp/paths/js.foundation.js"
+			],
+			[
+				"appliformpug",
+				"source/template/common/application-form.pug"
+			],
+			[
+				"lightgallery",
+				"source/style/vendor/lightgallery.scss"
+			],
+			[
+				"rifmach",
+				"source/template/common/rifmachs.pug"
+			],
+			[
+				"indexpug",
+				"source/template/pages/index.pug"
+			],
+			[
+				"applic",
+				"source/style/blocks/application.scss"
+			],
+			[
+				"_templhe",
+				"source/template/_template--header-bordered-popup.pug"
+			],
+			[
+				"applpa",
+				"source/template/pages/application-page.pug"
+			],
+			[
+				"join",
+				"source/template/pages/join-us.pug"
+			],
+			[
+				"honor",
+				"source/template/common/honor.pug"
+			],
+			[
+				"ligh",
+				"source/style/vendor/lightgallery.scss"
+			],
+			[
+				"honors",
+				"source/style/blocks/honor.scss"
+			],
+			[
+				"light",
+				"source/style/vendor/lightgallery.scss"
+			],
+			[
+				"honorpug",
+				"source/template/common/honor.pug"
+			],
+			[
+				"indexrev",
+				"source/template/common/index-reviews.pug"
+			],
+			[
+				"lgtra",
+				"source/style/vendor/lg-transitions.scss"
+			],
+			[
+				"jsfound",
+				"gulp/paths/js.foundation.js"
+			],
+			[
+				"fancybox",
+				"source/js/vendor/fancybox-from-rifmach.js"
+			],
+			[
+				"jsf",
+				"gulp/paths/js.foundation.js"
+			],
+			[
+				"honorfeedb",
+				"source/template/common/honor-feedbacks.pug"
+			],
+			[
+				"jquery.fancyboxsc",
+				"source/style/vendor/jquery.fancybox.scss"
+			],
+			[
+				"feedbablo",
+				"source/template/common/feedback-block.pug"
+			],
+			[
+				"feedba",
+				"source/template/pages/feedbacks.pug"
+			],
+			[
+				"feedb",
+				"source/style/blocks/feedbacks.scss"
+			],
+			[
+				"ratingsr",
+				"source/style/blocks/rating-stars.scss"
+			],
+			[
+				"feedblo",
+				"source/template/common/feedback-block.pug"
+			],
+			[
+				"authoinf",
+				"source/template/common/author-info.pug"
+			],
+			[
+				"authorpug",
+				"source/template/pages/author.pug"
+			],
+			[
+				"payment",
+				"source/style/blocks/payments.scss"
+			],
+			[
+				"checkpayme",
+				"source/template/common/checkout-payments.pug"
+			],
+			[
+				"checkpay",
+				"source/template/common/checkout-payments.pug"
+			],
+			[
+				"checkou",
+				"source/template/pages/checkout.pug"
+			],
+			[
+				"payments",
+				"source/style/blocks/payments.scss"
+			],
+			[
+				"checkout",
+				"source/style/blocks/checkout.scss"
+			],
+			[
+				"checkform",
+				"source/template/common/checkout-form.pug"
+			],
+			[
+				"_temphe",
+				"source/template/_template--header-bordered.pug"
+			],
+			[
+				"cat",
+				"source/template/pages/catalog.pug"
+			],
+			[
+				"catais",
+				"source/style/blocks/catalog-i.scss"
+			],
+			[
+				"requi",
+				"source/style/blocks/requirements.scss"
+			],
+			[
+				"header",
+				"source/style/blocks/header.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/My stuffs/Dev/FL/rifmach/Rifmach-New.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
